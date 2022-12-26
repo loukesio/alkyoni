@@ -2,10 +2,10 @@
 % Please edit documentation in R/functions.R
 \name{telca}
 \alias{telca}
-\alias{theme_pres}
+\alias{theme_roboto}
 \title{telca: A package to make plotting with ggplot2 a bit easier}
 \usage{
-theme_pres(
+theme_roboto(
   base_size = 12,
   base_line_size = base_size/24,
   base_rect_size = base_size/24,
@@ -34,7 +34,7 @@ ggplot(mtcars, aes(wt, mpg)) +
     geom_point() +
     labs(title = "A Lovely Plot",
          subtitle = "What can the subtitle tell us?") +
-    theme_pres()
+    theme_roboto()
 }
 
 }
