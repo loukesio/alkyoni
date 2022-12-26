@@ -5,7 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Install package
-Install the package using the following commands  <img align="right" src="ReadMEFigures/ltc_logo.png" width=400>
 
 ```r
 # for now you can install the developemental version of ltc
@@ -16,6 +15,6 @@ install.packages("devtools")
 library(devtools)
 
 # then you can install the dev version of the ltc
-install_github("loukesio/ltc_palettes")
+install_github("loukesio/telca")
 # and load it
 library(ltc)
