@@ -1,0 +1,17 @@
+Package: telca
+Title: Provides ggplot themes
+Version: 0.0.0.9000
+Authors@R: 
+    person("Loukas", "Theodosiou", , "theodosiou@evolbio.mpg.de", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Conviniece functions to make plotting with ggplotw a bit easier.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Imports: 
+    ggplot2,
+    ggtext
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
