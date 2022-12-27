@@ -1,6 +1,6 @@
 #' telca: A package to make plotting with ggplot2 a bit easier
 #'
-#' @name telca
+#' @name alkyoni
 #' @import  ggplot2
 #' @import  ggtext
 #'
